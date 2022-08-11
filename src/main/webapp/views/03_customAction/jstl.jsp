@@ -35,8 +35,12 @@
 	<a href="01_core.jsp">core Library</a>
 	
 	<h4>2. JSTL Formatting Library</h4>
+	<p>숫자, 날찌 및 시간 데이터들의 출력 형식을 지정할 때 사용하는 문법을 제공</p>
+	<a href="02_fmt.jsp">fmt library</a>
 	
 	<h4>3. JSTL Function Library</h4>
-
+	<p>EL안에서 사용할 수 있는 메소드를 제공</p>
+	<a href="03_fn.jsp">fn library</a>
+	
 </body>
 </html>
